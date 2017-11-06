@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=firstName\ lastName
+comment0.target=Student(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=newFirstName
+comment2.target=void\ setFirstName(java.lang.String)
+comment3.params=newLastName
+comment3.target=void\ setLastName(java.lang.String)
+comment4.params=bookName\ bookAuthor\ department\ courseSOC
+comment4.target=void\ addBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=indexNumber
+comment5.target=void\ removeBook(int)
+comment6.params=
+comment6.target=void\ printShelf()
+numComments=7

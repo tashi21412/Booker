@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=bookAuthor\ bookname\ department\ courseSOC
+comment0.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=newBookName
+comment1.target=void\ setBookName(java.lang.String)
+comment2.params=newbookAuthor
+comment2.target=void\ setbookAuthor(java.lang.String)
+comment3.params=newDepartment
+comment3.target=void\ setDepartment(java.lang.String)
+comment4.params=newCourseSOC
+comment4.target=void\ setcourseSOC(java.lang.String)
+numComments=5

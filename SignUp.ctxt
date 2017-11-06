@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=newid\ newPassword\ firstName\ lastName
+comment0.target=void\ createAccount(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=1
